@@ -1,4 +1,4 @@
-# Issue Discussion Information Type Detection Tool
+# Issue Discussion Information Type Detector (IITD)
 
 ### Liscence
 The project is liscensed under MIT License, Copyright 2022 Tamanna. Get to know about the [liscense](https://github.com/tamanna037/InformationTypesDetectionNLP/blob/main/LICENSE) from here.
