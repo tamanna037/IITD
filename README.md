@@ -1,7 +1,7 @@
 # Issue Discussion Information Type Detector (IITD)
 
 ### Liscence
-The project is liscensed under MIT License, Copyright 2022 Tamanna. Get to know about the [liscense](https://github.com/tamanna037/InformationTypesDetectionNLP/blob/main/LICENSE) from here.
+The project is liscensed under MIT Licens. Get to know about the [liscense](https://github.com/tamanna037/InformationTypesDetectionNLP/blob/main/LICENSE) from here.
 
 ### Goal
 Issue Information Type Detector(ITTD) Tool detects the information types each sentence of a comment/post of a github issue is providng in order to support various software engineering activities.  The following 12 information types will be detected.
